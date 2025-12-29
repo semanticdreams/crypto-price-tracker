@@ -66,7 +66,10 @@ def main() -> int:
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
     destination = output_path(args.output_dir, now)
-    destination.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n")
+    content = json.dumps(payload, indent=2, sort_keys=True) + "\n"
+    destination.write_text(content)
+    latest_path = args.output_dir / "latest.json"
+    latest_path.write_text(content)
 
     print(f"Saved prices to {destination}")
     return 1 if errors else 0
