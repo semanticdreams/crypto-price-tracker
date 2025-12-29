@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Test/coverage
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Playwright
+ms-playwright/
+
+# OS
+.DS_Store
