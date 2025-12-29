@@ -31,7 +31,8 @@ jobs:
         run: pytest
 
       - name: Run fetch script
-        run: python fetch_prices.py
+        run: |
+          python fetch_prices.py || echo "FETCH_FAILED=1" >> "$GITHUB_ENV"
 
       - name: Commit and push
         run: |
@@ -40,3 +41,7 @@ jobs:
           git add data/*
           git commit -m "Add prices for $(date -u +'%Y-%m-%d')" || echo "No changes"
           git push
+
+      - name: Fail if any scraper failed
+        if: env.FETCH_FAILED == '1'
+        run: exit 1
