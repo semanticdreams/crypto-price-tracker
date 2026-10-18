@@ -1,0 +1,485 @@
+{
+  "date": "2026-10-18",
+  "errors": [],
+  "fetched_at": "2026-10-18T03:12:33.133846+00:00",
+  "quotes": [
+    {
+      "currency": "USD",
+      "name": "Bitcoin",
+      "price": 81793.89,
+      "raw": "$81,793.89",
+      "slug": "bitcoin",
+      "source": "coingecko",
+      "symbol": "BTC",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Ethereum",
+      "price": 2417.32,
+      "raw": "$2,417.32",
+      "slug": "ethereum",
+      "source": "coingecko",
+      "symbol": "ETH",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Solana",
+      "price": 103.98,
+      "raw": "$103.98",
+      "slug": "solana",
+      "source": "coingecko",
+      "symbol": "SOL",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Cardano",
+      "price": 0.2211,
+      "raw": "$0.2211",
+      "slug": "cardano",
+      "source": "coingecko",
+      "symbol": "ADA",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Arbitrum",
+      "price": 0.1829,
+      "raw": "$0.1829",
+      "slug": "arbitrum",
+      "source": "coingecko",
+      "symbol": "ARB",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Monero",
+      "price": 601.75,
+      "raw": "$601.75",
+      "slug": "monero",
+      "source": "coingecko",
+      "symbol": "XMR",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "BNB",
+      "price": 721.54,
+      "raw": "$721.54",
+      "slug": "binancecoin",
+      "source": "coingecko",
+      "symbol": "BNB",
+      "url": "https://www.coingecko.com/"
+    },
+    {
+      "currency": "EUR",
+      "name": "Bitcoin",
+      "price": 72745.0,
+      "raw": "\u20ac72,745.00",
+      "slug": "bitcoin",
+      "source": "kraken",
+      "symbol": "BTC",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "EUR",
+      "name": "Ethereum",
+      "price": 2150.64,
+      "raw": "\u20ac2,150.64",
+      "slug": "ethereum",
+      "source": "kraken",
+      "symbol": "ETH",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "EUR",
+      "name": "Solana",
+      "price": 92.55,
+      "raw": "\u20ac92.55",
+      "slug": "solana",
+      "source": "kraken",
+      "symbol": "SOL",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "EUR",
+      "name": "Cardano",
+      "price": 0.2,
+      "raw": "\u20ac0.20",
+      "slug": "cardano",
+      "source": "kraken",
+      "symbol": "ADA",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "EUR",
+      "name": "Arbitrum",
+      "price": 0.16,
+      "raw": "\u20ac0.16",
+      "slug": "arbitrum",
+      "source": "kraken",
+      "symbol": "ARB",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "EUR",
+      "name": "Monero",
+      "price": 536.9,
+      "raw": "\u20ac536.90",
+      "slug": "monero",
+      "source": "kraken",
+      "symbol": "XMR",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "EUR",
+      "name": "BNB",
+      "price": 641.89,
+      "raw": "\u20ac641.89",
+      "slug": "binancecoin",
+      "source": "kraken",
+      "symbol": "BNB",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "USD",
+      "name": "Bitcoin",
+      "price": 81789.0,
+      "raw": "$81,789.00",
+      "slug": "bitcoin",
+      "source": "kraken",
+      "symbol": "BTC",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "USD",
+      "name": "Ethereum",
+      "price": 2417.11,
+      "raw": "$2,417.11",
+      "slug": "ethereum",
+      "source": "kraken",
+      "symbol": "ETH",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "USD",
+      "name": "Solana",
+      "price": 103.99,
+      "raw": "$103.99",
+      "slug": "solana",
+      "source": "kraken",
+      "symbol": "SOL",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "USD",
+      "name": "Cardano",
+      "price": 0.22,
+      "raw": "$0.22",
+      "slug": "cardano",
+      "source": "kraken",
+      "symbol": "ADA",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "USD",
+      "name": "Arbitrum",
+      "price": 0.18,
+      "raw": "$0.18",
+      "slug": "arbitrum",
+      "source": "kraken",
+      "symbol": "ARB",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "USD",
+      "name": "Monero",
+      "price": 603.96,
+      "raw": "$603.96",
+      "slug": "monero",
+      "source": "kraken",
+      "symbol": "XMR",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "USD",
+      "name": "BNB",
+      "price": 721.63,
+      "raw": "$721.63",
+      "slug": "binancecoin",
+      "source": "kraken",
+      "symbol": "BNB",
+      "url": "https://www.kraken.com/prices"
+    },
+    {
+      "currency": "USD",
+      "name": "Bitcoin",
+      "price": 81813.06,
+      "raw": "81,813.06",
+      "slug": "bitcoin",
+      "source": "yahoo",
+      "symbol": "BTC",
+      "url": "https://finance.yahoo.com/markets/crypto/all/?start=0&count=250"
+    },
+    {
+      "currency": "USD",
+      "name": "Ethereum",
+      "price": 2418.1,
+      "raw": "2,418.10",
+      "slug": "ethereum",
+      "source": "yahoo",
+      "symbol": "ETH",
+      "url": "https://finance.yahoo.com/markets/crypto/all/?start=0&count=250"
+    },
+    {
+      "currency": "USD",
+      "name": "Solana",
+      "price": 104.01,
+      "raw": "104.01",
+      "slug": "solana",
+      "source": "yahoo",
+      "symbol": "SOL",
+      "url": "https://finance.yahoo.com/markets/crypto/all/?start=0&count=250"
+    },
+    {
+      "currency": "USD",
+      "name": "Cardano",
+      "price": 0.22,
+      "raw": "0.22",
+      "slug": "cardano",
+      "source": "yahoo",
+      "symbol": "ADA",
+      "url": "https://finance.yahoo.com/markets/crypto/all/?start=0&count=250"
+    },
+    {
+      "currency": "USD",
+      "name": "Arbitrum",
+      "price": 0.18,
+      "raw": "0.18",
+      "slug": "arbitrum",
+      "source": "yahoo",
+      "symbol": "ARB",
+      "url": "https://finance.yahoo.com/markets/crypto/all/?start=0&count=250"
+    },
+    {
+      "currency": "USD",
+      "name": "Monero",
+      "price": 600.54,
+      "raw": "600.54",
+      "slug": "monero",
+      "source": "yahoo",
+      "symbol": "XMR",
+      "url": "https://finance.yahoo.com/markets/crypto/all/?start=0&count=250"
+    },
+    {
+      "currency": "USD",
+      "name": "BNB",
+      "price": 721.6,
+      "raw": "721.60",
+      "slug": "binancecoin",
+      "source": "yahoo",
+      "symbol": "BNB",
+      "url": "https://finance.yahoo.com/markets/crypto/all/?start=0&count=250"
+    },
+    {
+      "currency": "USDT",
+      "name": "Bitcoin",
+      "price": 81957.98,
+      "raw": "81957.98",
+      "slug": "bitcoin",
+      "source": "binance",
+      "symbol": "BTC",
+      "url": "https://www.binance.com/en/markets/overview"
+    },
+    {
+      "currency": "USDT",
+      "name": "Cardano",
+      "price": 0.2216,
+      "raw": "0.2216",
+      "slug": "cardano",
+      "source": "binance",
+      "symbol": "ADA",
+      "url": "https://www.binance.com/en/markets/overview"
+    },
+    {
+      "currency": "USDT",
+      "name": "Solana",
+      "price": 104.23,
+      "raw": "104.23",
+      "slug": "solana",
+      "source": "binance",
+      "symbol": "SOL",
+      "url": "https://www.binance.com/en/markets/overview"
+    },
+    {
+      "currency": "USDT",
+      "name": "BNB",
+      "price": 722.65,
+      "raw": "722.65",
+      "slug": "binancecoin",
+      "source": "binance",
+      "symbol": "BNB",
+      "url": "https://www.binance.com/en/markets/overview"
+    },
+    {
+      "currency": "USDT",
+      "name": "Ethereum",
+      "price": 2422.0,
+      "raw": "2422.00",
+      "slug": "ethereum",
+      "source": "binance",
+      "symbol": "ETH",
+      "url": "https://www.binance.com/en/markets/overview"
+    },
+    {
+      "currency": "USDT",
+      "name": "Arbitrum",
+      "price": 0.1836,
+      "raw": "0.1836",
+      "slug": "arbitrum",
+      "source": "binance",
+      "symbol": "ARB",
+      "url": "https://www.binance.com/en/markets/overview"
+    },
+    {
+      "currency": "USD",
+      "name": "Bitcoin",
+      "price": 81773.9,
+      "raw": "$81,773.90",
+      "slug": "bitcoin",
+      "source": "coinmarketcap",
+      "symbol": "BTC",
+      "url": "https://coinmarketcap.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Ethereum",
+      "price": 2415.77,
+      "raw": "$2,415.77",
+      "slug": "ethereum",
+      "source": "coinmarketcap",
+      "symbol": "ETH",
+      "url": "https://coinmarketcap.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Solana",
+      "price": 103.84,
+      "raw": "$103.84",
+      "slug": "solana",
+      "source": "coinmarketcap",
+      "symbol": "SOL",
+      "url": "https://coinmarketcap.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Cardano",
+      "price": 0.2209,
+      "raw": "$0.2209",
+      "slug": "cardano",
+      "source": "coinmarketcap",
+      "symbol": "ADA",
+      "url": "https://coinmarketcap.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Arbitrum",
+      "price": 0.18,
+      "raw": "$0.18",
+      "slug": "arbitrum",
+      "source": "coinmarketcap",
+      "symbol": "ARB",
+      "url": "https://coinmarketcap.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Monero",
+      "price": 600.54,
+      "raw": "$600.54",
+      "slug": "monero",
+      "source": "coinmarketcap",
+      "symbol": "XMR",
+      "url": "https://coinmarketcap.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "BNB",
+      "price": 720.85,
+      "raw": "$720.85",
+      "slug": "binancecoin",
+      "source": "coinmarketcap",
+      "symbol": "BNB",
+      "url": "https://coinmarketcap.com/"
+    },
+    {
+      "currency": "USD",
+      "name": "Bitcoin",
+      "price": 81644.33,
+      "raw": "$81,644.33",
+      "slug": "bitcoin",
+      "source": "coindesk",
+      "symbol": "BTC",
+      "url": "https://www.coindesk.com/price"
+    },
+    {
+      "currency": "USD",
+      "name": "Ethereum",
+      "price": 2417.47,
+      "raw": "$2,417.47",
+      "slug": "ethereum",
+      "source": "coindesk",
+      "symbol": "ETH",
+      "url": "https://www.coindesk.com/price"
+    },
+    {
+      "currency": "USD",
+      "name": "BNB",
+      "price": 721.76,
+      "raw": "$721.76",
+      "slug": "binancecoin",
+      "source": "coindesk",
+      "symbol": "BNB",
+      "url": "https://www.coindesk.com/price"
+    },
+    {
+      "currency": "USD",
+      "name": "Solana",
+      "price": 103.68,
+      "raw": "$103.68",
+      "slug": "solana",
+      "source": "coindesk",
+      "symbol": "SOL",
+      "url": "https://www.coindesk.com/price"
+    },
+    {
+      "currency": "USD",
+      "name": "Monero",
+      "price": 602.22,
+      "raw": "$602.22",
+      "slug": "monero",
+      "source": "coindesk",
+      "symbol": "XMR",
+      "url": "https://www.coindesk.com/price"
+    },
+    {
+      "currency": "USD",
+      "name": "Cardano",
+      "price": 0.2212,
+      "raw": "$0.2212",
+      "slug": "cardano",
+      "source": "coindesk",
+      "symbol": "ADA",
+      "url": "https://www.coindesk.com/price"
+    }
+  ],
+  "sources": [
+    "coingecko",
+    "kraken",
+    "yahoo",
+    "binance",
+    "coinmarketcap",
+    "coindesk"
+  ]
+}
